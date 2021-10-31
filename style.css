@@ -1,0 +1,43 @@
+.heading
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    color: teal;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+
+#button{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    text-decoration: teal;
+    border-radius: 200px;
+}
+
+#button1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    text-decoration: teal;
+    border-radius: 200px;
+}
+
+canvas{
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-style: solid;
+    border-width: 15px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 50px rgba(218, 14, 14, 0.589)
+}
